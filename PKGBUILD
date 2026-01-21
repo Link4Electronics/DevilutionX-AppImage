@@ -7,7 +7,7 @@ pkgname=("${pkgbase}" "${pkgbase}-fonts" "${pkgbase}-voices")
 pkgver=1.5.5 # renovate: datasource=github-tags depName=diasurgical/devilutionX
 pkgrel=1
 pkgdesc="Diablo devolved for linux"
-arch=('armv6h' 'armv7h' 'arm' 'aarch64' 'i686' 'x86_64')
+arch=('aarch64' 'x86_64')
 url="https://github.com/diasurgical/devilutionX"
 license=('custom:unlicense')
 depends=('bzip2' 'fmt' 'libpng' 'libsodium' 'sdl2-compat' 'sdl2_image' 'zlib')
@@ -33,7 +33,6 @@ build() {
 
 package_devilutionx() {
   pkgdesc="Diablo devolved for linux (main package)"
-  install="${pkgbase}".install
   optdepends=("${pkgbase}-fonts" "${pkgbase}-voices")
 
   cd build
