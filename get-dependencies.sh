@@ -7,6 +7,8 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm pipewire-jack \
+    cmake       \
+    ninja       \
     fmt         \
     libsodium   \
     sdl2-compat \
