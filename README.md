@@ -1,9 +1,9 @@
 # DevilutionX-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/Link4Electronics/DevilutionX-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Link4Electronics/DevilutionX-AppImage/releases/latest)
-[![CI Build Status](https://github.com//Link4Electronics/DevilutionX-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Link4Electronics/DevilutionX-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/DevilutionX-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/DevilutionX-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/DevilutionX-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/DevilutionX-AppImage/releases/latest)
 
-* [Latest Stable Release](https://github.com/Link4Electronics/DevilutionX-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/DevilutionX-AppImage/releases/latest)
 
 ---
 
